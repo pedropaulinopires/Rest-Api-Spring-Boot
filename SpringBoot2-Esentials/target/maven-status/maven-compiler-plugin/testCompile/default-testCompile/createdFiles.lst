@@ -1,0 +1,13 @@
+com\pedro\spring\util\PersonPostRequestBodyCreator.class
+com\pedro\spring\util\PersonCreated.class
+com\pedro\spring\SpringBoot2EsentialsApplicationTests.class
+com\pedro\spring\integration\PersonControllerIT.class
+com\pedro\spring\integration\PersonControllerIT$4.class
+com\pedro\spring\integration\PersonControllerIT$5.class
+com\pedro\spring\integration\PersonControllerIT$1.class
+com\pedro\spring\repository\PersonRepositoryTest.class
+com\pedro\spring\controller\PersonControllerTest.class
+com\pedro\spring\integration\PersonControllerIT$2.class
+com\pedro\spring\util\PersonPutRequestBodyCreator.class
+com\pedro\spring\service\PersonServiceTest.class
+com\pedro\spring\integration\PersonControllerIT$3.class
